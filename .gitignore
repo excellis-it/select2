@@ -1,3 +1,7 @@
 node_modules
 dist/js/i18n/build.txt
 .sass-cache
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
